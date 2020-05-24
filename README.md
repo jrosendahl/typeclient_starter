@@ -1,4 +1,4 @@
 # typeclient_starter
 Typescript Starter Template
 
-This project contains statrter teplate for Typescrupt / Jest / React
+This project contains starter teplate for Typescrupt / Jest / React
